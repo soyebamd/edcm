@@ -1,0 +1,34 @@
+/* Google fonts */
+@import url("googleFonts.css");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+/* Reset default margins and padding to zero */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+.lineHeightDefault {
+  line-height: auto;
+}
+
+.lineHeightSingle {
+  line-height: 1;
+}
+
+.lineHeightOnetwofive {
+  line-height: 1.5;
+}
+
+.lineHeightOnefive {
+  line-height: 1.75;
+}
+
+.lineHeightDouble {
+  line-height: 2;
+}
