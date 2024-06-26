@@ -73,7 +73,7 @@ include_once 'header.php'
                                                 style="margin-bottom: 5px"
                                               >
                                                 <a
-                                                  href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                                  href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                                   target="_self"
                                                   class="button"
                                                   >Contact Us</a
@@ -289,14 +289,14 @@ include_once 'header.php'
                                           color: #ffffff;
                                           text-decoration: none;
                                         "
-                                        >Call (215) 849-5605</span
+                                        >Call <a href="tel:215-849-5605" class="link">(215) 849-5605</a></span
                                       >
                                     </h5>
                                     <h5 class="gtf">
                                       <span style="font-size: 18pt"
                                         ><span style="color: #ffffff"
                                           ><a
-                                            href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                            href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                             style="color: #ffffff"
                                             target="_self"
                                             >Contact us</a
@@ -310,7 +310,7 @@ include_once 'header.php'
                                           >to get a pricing quote for our moving
                                           services and
                                           <a
-                                            href="Storage_Units_Moving_Supplies_Philadelphia_PA.html"
+                                            href="Storage_Units_Moving_Supplies_Philadelphia_PA.php"
                                             style="color: #ffffff"
                                             target="_blank"
                                             >storage units</a
@@ -504,8 +504,7 @@ include_once 'header.php'
                                                                   ><strong
                                                                     >Phone</strong
                                                                   ></span
-                                                                ><br />(215)
-                                                                849-5605
+                                                                ><br /><a href="tel:215-849-5605" class="link">(215) 849-5605</a>
                                                               </p>
                                                               <h3>
                                                                 <span
@@ -526,33 +525,58 @@ include_once 'header.php'
                                                                 office closed on
                                                                 Sunday
                                                               </p>
-                                                              <p>
+                                                              <!-- <p>
                                                                 <strong
                                                                   >Share Us
                                                                   On<br />
                                                                   <div
                                                                     id="webcom-component-socialmediashare-37609665818049658"
-                                                                  ></div
+                                                                  >
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  <div class="sms_container socialmediashare_icon_only_large">
+                                                                    <a class="socialmediashare_facebook_rounded_iconunder_a" href="//www.facebook.com/share.php?u=https://www.elvisdirtcheapmovingandstorage.com/" target="_blank">
+                                                                      <img src="image/facebook-color.png" alt="Facebook Icon" class="socialmediashare_rounded_iconunder_img socialmediashare_facebook_rounded_iconunder_img"></a>
+                                                                      <a class="socialmediashare_twitter_rounded_iconunder_a" href="//www.twitter.com/home?status=https://www.elvisdirtcheapmovingandstorage.com/" target="_blank">
+                                                                        <img src="image/twitter-color.png" alt="Twitter Icon" class="socialmediashare_rounded_iconunder_img socialmediashare_twitter_rounded_iconunder_img"></a>
+                                                                        <a class="socialmediashare_linkedin_rounded_iconunder_a" href="//www.linkedin.com/shareArticle?mini=true&url=https://www.elvisdirtcheapmovingandstorage.com/" target="_blank">
+                                                                          <img src="image/linkedin-color.png" alt="Linkedin Icon" class="socialmediashare_rounded_iconunder_img socialmediashare_linkedin_rounded_iconunder_img"></a></div>
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  </div
                                                                 ></strong>
-                                                              </p>
+                                                              </p> -->
                                                               <p>
                                                                 <em
                                                                   ><strong
                                                                     >Call us in
-                                                                    <a
-                                                                      href="Moving_and_Storage_Location__Philadelphia_PA.html"
-                                                                      target="_self"
-                                                                      >Philadelphia,
-                                                                      Pennsylvania</a
-                                                                    >, toll free
-                                                                    at (215)
-                                                                    849-5605
+                                                                    Philadelphia,
+                                                                      Pennsylvania, toll free
+                                                                    at <a href="tel:215-849-5605" class="link">(215) 849-5605</a>
                                                                     with any
                                                                     inquiries
                                                                     about our
                                                                     <a
-                                                                      href="index.html"
-                                                                      target="_self"
+                                                                      href="https://www.mingselfstorage.com/"
+                                                                      target="_blank"
                                                                       >moving
                                                                       and
                                                                       storage

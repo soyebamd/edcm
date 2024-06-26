@@ -49,7 +49,7 @@ include_once 'header.php'
                                         style="margin-bottom: 5px"
                                       >
                                         <a
-                                          href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                          href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                           target="_self"
                                           class="button"
                                           >Contact Us</a
@@ -158,7 +158,7 @@ include_once 'header.php'
                                                         Please
                                                         <strong
                                                           ><a
-                                                            href="online-price-list.html"
+                                                            href="online-price-list.php"
                                                             target="_blank"
                                                             >click here</a
                                                           ></strong
@@ -209,7 +209,7 @@ include_once 'header.php'
                                                       >
                                                         <strong
                                                           ><a
-                                                            href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                                            href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                                             target="_self"
                                                             >Contact us</a
                                                           >
@@ -217,12 +217,12 @@ include_once 'header.php'
                                                           professional and
                                                           personal
                                                           <a
-                                                            href="index.html"
-                                                            target="_self"
+                                                            href="https://www.mingselfstorage.com/"
+                                                            target="_blank"
                                                             >moving and
                                                             storage</a
                                                           >
-                                                          services.<br
+                                                        services.<br
                                                         /></strong>
                                                       </p>
                                                     </td>

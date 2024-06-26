@@ -46,7 +46,7 @@ include_once 'header.php'
                                         style="margin-bottom: 5px"
                                       >
                                         <a
-                                          href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                          href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                           target="_self"
                                           class="button"
                                           >Contact Us</a

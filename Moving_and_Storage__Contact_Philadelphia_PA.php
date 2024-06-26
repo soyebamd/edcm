@@ -47,7 +47,7 @@ include_once 'header.php'
                                         style="margin-bottom: 5px"
                                       >
                                         <a
-                                          href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                          href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                           target="_self"
                                           class="button"
                                           >Contact Us</a
@@ -165,8 +165,7 @@ include_once 'header.php'
                                                                   ><strong
                                                                     >Phone</strong
                                                                   ></span
-                                                                ><br />(215)
-                                                                849-5605
+                                                                ><br /><a href="tel:215-849-5605" class="link">(215) 849-5605</a>
                                                               </p>
                                                               <h3>
                                                                 <span
@@ -198,20 +197,15 @@ include_once 'header.php'
                                                                 <em
                                                                   ><strong
                                                                     >Call us in
-                                                                    <a
-                                                                      href="Moving_and_Storage_Location__Philadelphia_PA.html"
-                                                                      target="_self"
-                                                                      >Philadelphia,
-                                                                      Pennsylvania</a
-                                                                    >, toll free
-                                                                    at (215)
-                                                                    849-5605
+                                                                    Philadelphia,
+                                                                      Pennsylvania, toll free
+                                                                    at <a href="tel:215-849-5605" class="link">(215) 849-5605</a>
                                                                     with any
                                                                     inquiries
                                                                     about our
                                                                     <a
-                                                                      href="index.html"
-                                                                      target="_self"
+                                                                      href="https://www.mingselfstorage.com/"
+                                                                      target="_blank"
                                                                       >moving
                                                                       and
                                                                       storage

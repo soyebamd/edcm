@@ -18,36 +18,36 @@
                       </p>
                       <!--Navigation Links-->
                       <ul class="mtx_footnav">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="pay-invoice.html">Pay Invoice</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="pay-invoice.php">Pay Invoice</a></li>
                         <li>
                           <a
-                            href="Storage_Units_Moving_Supplies_Philadelphia_PA.html"
+                            href="Storage_Units_Moving_Supplies_Philadelphia_PA.php"
                             >Online Services</a
                           >
                         </li>
                         <li>
                           <a
-                            href="Moving_and_Storage_Special_Offer_Philadelphia_PA.html"
+                            href="Moving_and_Storage_Special_Offer_Philadelphia_PA.php"
                             >Estimates</a
                           >
                         </li>
-                        <li><a href="Move_Request.html">Plan Your Move</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="Move_Request.php">Plan Your Move</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
                         <li>
                           <a
-                            href="Moving_and_Storage_Location__Philadelphia_PA.html"
+                            href="Moving_and_Storage_Location__Philadelphia_PA.php"
                             >Storage</a
                           >
                         </li>
                         <li>
                           <a
-                            href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                            href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                             >Contact Us</a
                           >
                         </li>
-                        <li><a href="careers.html">Careers</a></li>
-                        <li><a href="feedback.html">Feedback</a></li>
+                        <li><a href="careers.php">Careers</a></li>
+                        <li><a href="feedback.php">Feedback</a></li>
                       </ul>
                       <!--Business Address-->
                       <ul
@@ -74,7 +74,7 @@
                         <li>
                           <span class="type">Phone:</span>&nbsp;<span
                             class="value"
-                            >(215) 849-5605
+                            ><a href="tel:215-849-5605" class="link">(215) 849-5605</a>
                           </span>
                         </li>
                         <li class="copyright">

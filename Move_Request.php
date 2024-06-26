@@ -35,7 +35,7 @@ include_once 'header.php'
 <DIV style="display: inline-block; float: left;">
 <H5 class="header">Moving Services</H5>
 <H5 class="header2" style="margin-bottom: 5px;">You Call. We Haul. You Move.</H5>
-<H5 class="header2" style="margin-bottom: 5px;"><a href="Moving_and_Storage__Contact_Philadelphia_PA.html" target="_self" class="button">Contact Us</a></H5>
+<H5 class="header2" style="margin-bottom: 5px;"><a href="Moving_and_Storage__Contact_Philadelphia_PA.php" target="_self" class="button">Contact Us</a></H5>
 </DIV>
 </TD>
 </TR>
@@ -420,7 +420,7 @@ If you find damaged goods after the mover has left, keep the items and packing m
 <P style="text-align: left;"><STRONG>The following items should not be packed:</STRONG></P>
 <P style="text-align: left;"><STRONG>Corrosives: </STRONG>Household cleaners, acids, liquid plumber and car or boat batteries.<BR><STRONG>Explosives:</STRONG> Ammunition, bullets, flares, fireworks, and detonators.<BR><STRONG>Flammable Liquids:</STRONG> Gasoline, lighter fluid, paint, paint thinner, glue, kerosene, acetone (includes nail polish remover), tar remover, turpentine, lacquer remover, alcohol and lamp oils.<BR><STRONG>Flammable Solids:</STRONG> Matches and fuel tablets.<BR>GasesEither pressured or liquefied, propane tanks, oxygen, helium, household fuel, aerosol cans*, paint cleaner and butane lighters.<BR><STRONG>Liquids:</STRONG>&nbsp;Wine, beer, and alcohol.<BR><STRONG>Oxidizers:</STRONG> Bleach, disinfectants, organic peroxides, fertilizers, pool chemicals and chlorine in any form.<BR><STRONG>Poisons:</STRONG>&nbsp;Pesticides, herbicides, fumigants and photographic developing chemicals.<BR>Any aerosol cans including but not limited to hairspray, shaving cream, deodorants, insecticides, cleaning products, spray starch, spray paint<BR>Any other items That might be susceptible to combustion, like oily rags and charcoal, should not be packed for shipping.<BR><STRONG></STRONG></P>
 <P style="text-align: left;"><SPAN style="font-size: 12pt;"><STRONG><SPAN class="accentColor">What to do with Not to Pack Items</SPAN></STRONG></SPAN><BR>Call your local recycling pick-up provider, fire station, or the nearest Environmental Protection Agency office to learn how to properly dispose of flammable and hazardous materials before you move. If you have a small can of turpentine or leftover paint, ask your neighbors if they can use it. Otherwise, dispose of it properly with assistance from your recycling company.</P>
-<P style="text-align: center;"><STRONG><a href="Moving_and_Storage__Contact_Philadelphia_PA.html" target="_self">Contact us</a> in Philadelphia, Pennsylvania, to learn about pricing for our <a href="index.html" target="_self">moving and storage services</a>.<BR><BR><BR><A href="http://www.mcssl.com/store/elvisdirtcheapmovingandstorage" class="button" target="_self">Pay Invoice</A></STRONG></P>
+<P style="text-align: center;"><STRONG><a href="Moving_and_Storage__Contact_Philadelphia_PA.php" target="_self">Contact us</a> in Philadelphia, Pennsylvania, to learn about pricing for our <a href=" https://www.mingselfstorage.com/" target="_blank">moving and storage services</a>.<BR><BR><BR><A href="http://www.mcssl.com/store/elvisdirtcheapmovingandstorage" class="button" target="_self">Pay Invoice</A></STRONG></P>
 </DIV>
 </DIV>
 </TD>

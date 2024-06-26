@@ -58,7 +58,7 @@ include_once 'header.php'
                                               style="margin-bottom: 5px"
                                             >
                                               <a
-                                                href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                                href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                                 target="_self"
                                                 class="button"
                                                 >Contact Us</a
@@ -147,20 +147,20 @@ include_once 'header.php'
                                               <p>
                                                 <strong
                                                   ><a
-                                                    href="Moving_and_Storage__Contact_Philadelphia_PA.html"
+                                                    href="Moving_and_Storage__Contact_Philadelphia_PA.php"
                                                     target="_self"
                                                     >Contact us</a
                                                   >
                                                   in
                                                   <a
-                                                    href="Moving_and_Storage_Location__Philadelphia_PA.html"
+                                                    href="Moving_and_Storage_Location__Philadelphia_PA.php"
                                                     target="_self"
                                                     >Philadelphia,
                                                     Pennsylvania</a
                                                   >, to learn about pricing for
                                                   our
                                                   <a
-                                                    href="index.html"
+                                                    href="index.php"
                                                     target="_self"
                                                     >moving and storage
                                                     services</a

@@ -2027,10 +2027,16 @@
       var wsp_htmlref_blank = "scripts/blank.html";
     </script>
     <style type="text/css" media="print"></style>
+
+    <script type="text/javascript" src="https://assets.myregisteredsite.com/javascript/com/web/ResourceLoader.js"></script>
+
+
     <script
       type="text/javascript"
       src="assets/ResourceLoader.js"
     ></script>
+
+
     <script type="text/javascript">
       WebCom.ResourceLoader.setShared(true);
       WebCom.ResourceLoader.setSecure(false);
@@ -2122,7 +2128,7 @@
                       "Oops! There was a problem submitting your form. Please try again.",
                     message: "Thanks for your submission!",
                     type: "showMessage",
-                    url: "http://yourdomain.com/thankyou.html",
+                    url: "http://yourdomain.com/thankyou.php",
                   },
                   isSecure: false,
                   emailDelivery: "copy",
@@ -2327,7 +2333,7 @@
                       "Oops! There was a problem submitting your form. Please try again.",
                     message: "Thank you for choosing EDCM",
                     type: "showMessage",
-                    url: "http://yourdomain.com/thankyou.html",
+                    url: "http://yourdomain.com/thankyou.php",
                   },
                   isSecure: false,
                   emailDelivery: "copy",
@@ -2545,7 +2551,7 @@
                       "Oops! There was a problem submitting your form. Please try again.",
                     message: "Thanks for your submission!",
                     type: "showMessage",
-                    url: "http://yourdomain.com/thankyou.html",
+                    url: "http://yourdomain.com/thankyou.php",
                   },
                   isSecure: false,
                   emailDelivery: "copy",
@@ -2795,7 +2801,7 @@
                                                   color: #011640;
                                                   text-decoration: none;
                                                 "
-                                                >(215) 849-5605</span
+                                                ><a href="tel:215-849-5605" class="link">(215) 849-5605</a></span
                                               ></strong
                                             ></span
                                           >
